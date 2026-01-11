@@ -1,0 +1,23 @@
+body {
+    font-family: Verdana, sans-serif;
+    background-color: aquamarine;
+}
+
+.header {
+    font-weight: bold;
+    color: black;
+    border: 1px solid red;
+    margin: 10px;
+    padding: 10px;
+}
+
+ul {
+    margin: 20px;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    font-weight: 400;
+    font-family: 'Courier New', Courier, monospace;
+}
